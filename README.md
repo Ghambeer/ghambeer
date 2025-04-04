@@ -17,7 +17,7 @@
 - 📁 Actively maintaining my **DSA Notes and Solutions** in a public GitHub repo
 
 ## 📈 GitHub Stats
-![Ghambeer's GitHub stats](https://github-readme-stats.vercel.app/api?ghambeer=your-ghambeer&show_icons=true&theme=radical)
+![Ghambeer's GitHub stats]([https://github-readme-stats.vercel.app/api?ghambeer=your-ghambeer&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=ghambeer&layout=compact&theme=radical))
 
 ## 🌱 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/ghambeer-thamenane-5657a5291/)
