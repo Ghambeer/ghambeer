@@ -1,25 +1,115 @@
-# 👋 Hi there! I'm T. Ghambeer
+# 👋 Hi, I'm T. Ghambeer
 
-🎓 B.Tech CSE (AI & ML) student at CVR College of Engineering (Class of 2027)  
-💻 Passionate about Problem Solving, Software Development, and building real-world projects  
-🚀 Currently focused on mastering Data Structures & Algorithms and exploring Java Development
+🎓 B.Tech Student in **Computer Science & Engineering (AI & ML)**  
+💻 Aspiring **Software Developer / DevOps Engineer**  
+📍 Hyderabad, India  
 
-## 💡 What I’m Learning
-- Java Programming and OOP Concepts
-- Data Structures and Algorithms (LeetCode: 40 Easy, 23 Medium, 2 Hard problems solved so far!)
-- Git and GitHub for version control
-- Basics of Web Development
-- CS Fundamentals: DBMS, OS, CN
+I am a passionate engineering student focused on **problem-solving, Data Structures & Algorithms, and Full-Stack Development**.  
+Currently preparing seriously for **internships and industry-ready skills** while building real-world projects.
 
-## 🔨 Projects I’ve Worked On
-- 🧠 **Memory Game in Java** – A fun logic-based game that improves memory and concentration
-- 💻 **Coming soon:** Simple Java Console Applications (like Calculator, To-Do App)
-- 📁 Actively maintaining my **DSA Notes and Solutions** in a public GitHub repo
+---
 
-## 📈 GitHub Stats
-[![Ghambeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghambeer&show_icons=true&theme=radical)](https://github.com/ghambeer)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghambeer&layout=compact&theme=radical)
+## 🚀 About Me
 
-## 🌱 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/ghambeer-thamenane-5657a5291/)
-- Email: ghambeer.162@gmail.com
+- 🔹 Strong interest in **DSA, Web Development, and DevOps**
+- 🔹 Consistent problem solver on competitive coding platforms
+- 🔹 Learning by building projects, not just watching tutorials
+- 🔹 Focused on writing **clean, readable, and efficient code**
+- 🔹 Long-term goal: become a **skilled DevOps / Software Engineer**
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+- Java  
+- C  
+- Python  
+- JavaScript (Basics)
+
+### 🌐 Web Technologies
+- HTML5  
+- CSS3  
+- JavaScript  
+- Responsive Web Design  
+
+### 🧠 Core Concepts
+- Data Structures & Algorithms  
+- Object-Oriented Programming (OOP)  
+- Problem Solving  
+
+### ⚙️ Tools & Platforms
+- Git (Basic)  
+- GitHub  
+- VS Code  
+- LeetCode  
+
+---
+
+## 📂 Projects
+
+### 🍔 FoodFleet (Ongoing)
+A food ordering and restaurant website focused on clean UI and user experience.
+
+**Tech Stack:**  
+HTML, CSS, JavaScript  
+
+**Features:**
+- Responsive design  
+- Menu display  
+- User-friendly layout  
+
+---
+
+### 📝 Text Tool
+A Python-based mini project for basic text processing operations.
+
+**Tech Stack:**  
+Python  
+
+**Features:**
+- Text input handling  
+- String operations  
+- Simple CLI interaction  
+
+---
+
+## 🏆 Achievements
+
+- ✅ Solved **120+ problems** on CodeChef  
+- ✅ Solved **90+ problems** on LeetCode  
+- ✅ Completed multiple certifications in:
+  - C Programming  
+  - Data Structures  
+  - Python  
+  - Java & Advanced Java  
+
+---
+
+## 📈 Currently Learning
+
+- Advanced **JavaScript**
+- **DevOps fundamentals**
+- Systematic **DSA interview preparation**
+- Modern web development practices
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **ghambeer.162@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/ghambeer-thamenane-5657a5291](https://www.linkedin.com/in/ghambeer-thamenane-5657a5291/)
+- 🧑‍💻 GitHub: [github.com/Ghambeer](https://github.com/Ghambeer)
+
+---
+
+## ⭐ GitHub Goals
+
+- Build meaningful projects  
+- Maintain consistent contributions  
+- Improve code quality and documentation  
+- Crack a solid internship opportunity  
+
+---
+
+> *“Consistency beats talent when talent doesn’t work consistently.”*
